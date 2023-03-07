@@ -1,0 +1,207 @@
+.sec1 {
+  background-color: #f8ede3;
+}
+
+.heading1 {
+  font-family: "OFL Sorts Mill Goudy TT";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.navbar {
+  background: transparent;
+}
+
+.navbar-item {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  margin-right: 30px;
+}
+
+.name {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+  text-align: center;
+}
+
+.occu {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15 px;
+  color: #000000;
+  text-align: center;
+}
+
+.mail {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+  margin-top: 20rem;
+}
+
+.circle-1 {
+  display: inline-block;
+  background-color: white;
+  border-radius: 75px;
+  padding: 1rem 2rem;
+  margin-top: 15rem;
+  margin-left: 6rem;
+}
+
+.circle-2 {
+  height: 150px;
+  width: 150px;
+  background-color: white;
+  border-radius: 75px;
+  margin-top: 20rem;
+  margin-left: 15rem;
+}
+
+.about {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+
+  margin-top: 2rem;
+  margin-left: 12rem;
+}
+
+.skills-grid-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-left: 12rem;
+  margin-right: 12rem;
+  margin-top: 3rem;
+}
+
+.card {
+  height: 325px;
+  width: 250px;
+  border-radius: 25px;
+  padding-top: 40px;
+}
+
+.card p {
+  margin-top: 25px;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+}
+
+.card img {
+  width: 200px;
+  height: 200px;
+}
+
+.skills-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 18rem;
+  margin-right: 18rem;
+  margin-top: 3rem;
+}
+
+.skill-bottom {
+  display: inline-block;
+  position: relative;
+}
+
+.mail-skills {
+  position: absolute;
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  color: #000000;
+  display: inline-block;
+  vertical-align: middle;
+  top: 70rem;
+}
+
+.circle-skills {
+  height: 150px;
+  width: 150px;
+  background-color: white;
+  border-radius: 75px;
+
+  margin-left: 1150px;
+}
+
+.about-skills {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  color: #000000;
+
+  margin-top: 25px;
+  margin-left: 1175px;
+}
+
+.contact-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 8rem;
+  text-align: center;
+  letter-spacing: 0.05em;
+  color: #60644b;
+  mix-blend-mode: hard-light;
+  opacity: 0.75;
+  margin-bottom: 2rem;
+}
+
+.field {
+  width: 900px;
+  margin-left: 200px;
+}
+
+.input {
+  margin-bottom: 1rem;
+  background: #e6e8dd;
+  border-radius: 15px;
+  padding: 1.5rem 2rem;
+}
+
+.textarea {
+  height: 12rem;
+}
+
+.send-button {
+  background: #fba820;
+  border-radius: 0.75rem;
+
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #f5f5f5;
+  padding: 0.5rem 2rem;
+  margin-left: 26rem;
+}
+
+.input::placeholder {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  color: #000000;
+}

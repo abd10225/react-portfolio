@@ -1,0 +1,154 @@
+.section {
+    background-color: #f8ede3;
+  }
+  
+  .heading {
+    font-family: "OFL Sorts Mill Goudy TT";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  
+  .navbar {
+    background: transparent;
+  }
+  
+  .navbar-item {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    margin-right: 30px;
+  }
+  
+  .sh {
+    margin-top: 5rem;
+    margin-left: 6rem;
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 200px;
+    font-size: 25px;
+    color: #000000;
+  }
+  .shh {
+    margin-left: 8rem;
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    color: #000000;
+  }
+  .img1 {
+    padding-top: 3rem;
+    height: 600px;
+    width: 750px;
+  }
+  .img2 {
+    padding-top: 3rem;
+    height: 600px;
+    width: 750px;
+  }
+  
+  .about {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+  }
+  
+  .mail1 {
+    font-family: "OFL Sorts Mill Goudy TT";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    margin-left: 6rem;
+  }
+  .mail2 {
+    font-family: "OFL Sorts Mill Goudy TT";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    margin-top: 8rem;
+    margin-left: 6rem;
+  }
+  .mail3 {
+    font-family: "OFL Sorts Mill Goudy TT";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    margin-top: 20rem;
+    margin-left: 6rem;
+  }
+  .mail4 {
+    font-family: "OFL Sorts Mill Goudy TT";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    color: #000000;
+    margin-top: 20rem;
+    margin-left: 6rem;
+  }
+  .skills-text {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+    margin-left: 7rem;
+    margin-top: 1rem;
+  }
+  .contact-text {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+    margin-left: 7rem;
+    margin-top: 1rem;
+  }
+  
+  .info-col {
+    position: relative;
+  }
+  
+  .circle {
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    border-radius: 125px;
+  
+    position: absolute;
+    top: 350px;
+    right: 400px;
+  }
+  
+  .circle-2 {
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 75px;
+    margin-top: 20rem;
+    margin-left: 9rem;
+  }
+  .circle-3 {
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 75px;
+    margin-top: 5rem;
+    margin-left: 20rem;
+  }
+  .experience-text {
+    font-family: "Nunito";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #000000;
+    margin-top: 1rem;
+  }
